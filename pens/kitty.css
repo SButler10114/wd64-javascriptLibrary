@@ -1,0 +1,40 @@
+.cat-head {
+    width: 100px;
+    height: 100px;
+  }
+  .cat-face {
+    position: absolute;
+    top: 30;
+    left: 30;
+    height: 80%;
+    width: 90%;
+  }
+  .cat-ear1 {
+    width: 20px;
+    height: 100%;
+    position: absolute;
+  }
+  .cat-ear2{
+    width: 20px;
+    height: 100%;
+    position: absolute;
+  }
+  .cat-eyes {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: green;
+  }
+  .cat-mouth {
+    position: absolute;
+    width: 10px;
+    height: 6px;
+  }
+  .cat-whiskers {
+    width: 90%;
+    height: 6px;
+    position: absolute;
+    bottom: 25%;
+    left: 25%;
+  }
+  
